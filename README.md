@@ -16,7 +16,7 @@
 10) После перезагрузки галочка Enable Tun не будет нажата, нажмите её повторно
 11) Откройте меню System Proxy, правее галочки
 12) Выберите пункт "Set system proxy"
-    <img width="1207" height="829" alt="изображение" src="https://github.com/user-attachments/assets/0a11af5f-cf9c-46fd-a4e2-5b07aa35e126" />
+    <img width="1207" height="829" alt="549875414-0a11af5f-cf9c-46fd-a4e2-5b07aa35e126" src="https://github.com/user-attachments/assets/3243b37f-44ce-4773-85f4-c3e8d8bca44e" />
 13) Готово! Клиент включен. Чтобы отключить VPN, в меню System Proxy выберите пункт "Clear system proxy"
     <img width="1215" height="829" alt="изображение" src="https://github.com/user-attachments/assets/881676c1-f8e5-4f85-b05a-dc99ca5e3fe1" />
 
