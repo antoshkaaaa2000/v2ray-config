@@ -19,7 +19,8 @@
       "javaw.exe",
       "TL.exe",
       "steam.exe",
-      "zerotier-one_x64.exe"
+      "zerotier-one_x64.exe",
+      "vmware.exe"
     ],
     "enabled": true,
     "remarks": "direct"
