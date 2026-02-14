@@ -8,7 +8,6 @@
 
    <img width="352" height="331" alt="изображение" src="https://github.com/user-attachments/assets/47aa0df4-fda7-4377-8c07-d18b144b8fe0" />
 6) В папке есть файл V2RayN.exe - это и есть наш клиент
-   <img width="1209" height="812" alt="549875109-949b16d6-1aa1-41c9-b97e-45374ed3dba5" src="https://github.com/user-attachments/assets/e4b58da1-7df4-4da2-965d-345733ed60b5" />
 7) Открываете его
 8) Появится такое окно
    <img width="1209" height="812" alt="изображение" src="https://github.com/user-attachments/assets/949b16d6-1aa1-41c9-b97e-45374ed3dba5" />
