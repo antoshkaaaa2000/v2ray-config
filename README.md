@@ -7,18 +7,18 @@
 4) После этого появится папка с клиентом:
 
    <img width="352" height="331" alt="изображение" src="https://github.com/user-attachments/assets/47aa0df4-fda7-4377-8c07-d18b144b8fe0" />
-6) В папке есть файл V2RayN.exe - это и есть наш клиент
+5) В папке есть файл V2RayN.exe - это и есть наш клиент
    <img width="1279" height="1205" alt="изображение" src="https://github.com/user-attachments/assets/3c4cad85-2997-42ff-b36d-91a63c593e00" />
-8) Открываете его
-9) Появится такое окно
+6) Открываете его
+7) Появится такое окно
    <img width="1209" height="812" alt="изображение" src="https://github.com/user-attachments/assets/949b16d6-1aa1-41c9-b97e-45374ed3dba5" />
-10) Нажимаете галочку Enable Tun, после этого программа перезагрузится сама
+8) Нажимаете галочку Enable Tun, после этого программа перезагрузится сама
    <img width="1212" height="824" alt="изображение" src="https://github.com/user-attachments/assets/005bafa1-05e6-4917-a469-5c646a4e1871" />
-11) После перезагрузки галочка Enable Tun не будет нажата, нажмите её повторно
-12) Откройте меню System Proxy, правее галочки
-13) Выберите пункт "Set system proxy"
+9) После перезагрузки галочка Enable Tun не будет нажата, нажмите её повторно
+10) Откройте меню System Proxy, правее галочки
+11) Выберите пункт "Set system proxy"
     <img width="1207" height="829" alt="549875414-0a11af5f-cf9c-46fd-a4e2-5b07aa35e126" src="https://github.com/user-attachments/assets/3243b37f-44ce-4773-85f4-c3e8d8bca44e" />
-14) Готово! Клиент включен. Чтобы отключить VPN, в меню System Proxy выберите пункт "Clear system proxy"
+12) Готово! Клиент включен. Чтобы отключить VPN, в меню System Proxy выберите пункт "Clear system proxy"
     <img width="1215" height="829" alt="изображение" src="https://github.com/user-attachments/assets/881676c1-f8e5-4f85-b05a-dc99ca5e3fe1" />
 
 Если VPN не работает, убедитесь что включена галочка Enable Tun, и в настройках Routing выбран пункт "anton-win".
