@@ -11,7 +11,7 @@
    <img width="1209" height="812" alt="549875109-949b16d6-1aa1-41c9-b97e-45374ed3dba5" src="https://github.com/user-attachments/assets/e4b58da1-7df4-4da2-965d-345733ed60b5" />
 7) Открываете его
 8) Появится такое окно
-   <img width="1209" height="812" alt="изображение" src="https://github.com/user-attachments/assets/949b16d6-1aa1-41c9-b97e-45374ed3dba5" />
+   <img width="1209" height="812" alt="549875109-949b16d6-1aa1-41c9-b97e-45374ed3dba5" src="https://github.com/user-attachments/assets/22606dbd-9670-4fff-b4a3-062c2fbf1259" />
 9) Нажимаете галочку Enable Tun, после этого программа перезагрузится сама
    <img width="1212" height="824" alt="изображение" src="https://github.com/user-attachments/assets/005bafa1-05e6-4917-a469-5c646a4e1871" />
 10) После перезагрузки галочка Enable Tun не будет нажата, нажмите её повторно
