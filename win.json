@@ -1,0 +1,31 @@
+[
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "protocol": [
+      "bittorrent"
+    ],
+    "process": [
+      "java.exe",
+      "javaw.exe",
+      "TL.exe",
+      "steam.exe",
+      "zerotier-one_x64.exe"
+    ],
+    "enabled": true,
+    "remarks": "direct"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "process": [
+      "telegram.exe",
+      "signal.exe",
+      "thorium.exe",
+      "discord.exe",
+      "firefox.exe"
+    ],
+    "enabled": true,
+    "remarks": "proxy"
+  }
+]
