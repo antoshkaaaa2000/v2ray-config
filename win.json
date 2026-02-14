@@ -1,6 +1,15 @@
 [
   {
     "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "yandex.ru"
+    ],
+    "enabled": true,
+    "remarks": "block"
+  },
+  {
+    "port": "",
     "outboundTag": "direct",
     "protocol": [
       "bittorrent"
@@ -21,8 +30,13 @@
     "process": [
       "telegram.exe",
       "signal.exe",
-      "thorium.exe",
       "discord.exe",
+      "update.exe",
+      "updater.exe",
+      "chrome.exe",
+      "brave.exe",
+      "thorium.exe",
+      "msedge.exe",
       "firefox.exe"
     ],
     "enabled": true,
