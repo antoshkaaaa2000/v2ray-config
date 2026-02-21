@@ -20,7 +20,8 @@
       "TL.exe",
       "steam.exe",
       "zerotier-one_x64.exe",
-      "vmware.exe"
+      "vmware.exe",
+      "steamservice.exe"
     ],
     "enabled": true,
     "remarks": "direct"
