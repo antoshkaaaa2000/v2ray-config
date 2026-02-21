@@ -1,0 +1,47 @@
+[
+  {
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "yandex.ru"
+    ],
+    "enabled": true,
+    "remarks": "block"
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "protocol": [
+      "bittorrent"
+    ],
+    "process": [
+      "java",
+      "javaw",
+      "TL",
+      "steam",
+      "zerotier-one",
+      "vmware",
+      "steamwebhelper",
+      "steam-runtime-launcher-service"
+    ],
+    "enabled": true,
+    "remarks": "direct"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "process": [
+      "telegram",
+      "signal",
+      "discord",
+      "update",
+      "updater",
+      "chrome",
+      "brave",
+      "thorium",
+      "firefox"
+    ],
+    "enabled": true,
+    "remarks": "proxy"
+  }
+]
